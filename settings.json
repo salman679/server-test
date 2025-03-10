@@ -1,0 +1,122 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "files.autoSaveDelay": 500,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "html.format.indentHandlebars": true,
+    "liveServer.settings.fullReload": true,
+    "interactiveWindow.collapseCellInputCode": "always",
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "editor.autoIndent": "advanced",
+    "editor.semanticTokenColorCustomizations": {
+    },
+    "launch": {
+        
+        
+        
+        
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.tokenColorCustomizations": {
+        
+        // "comments": "#fff"
+    },
+    "editor.formatOnSave": true,
+    "html.format.contentUnformatted": "",
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "settingsSync.ignoredExtensions": [
+        "adpyke.codesnap"
+    ],
+    "[python]": {
+        
+        
+        "editor.formatOnType": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#060057a1",
+        "tab.activeBorder": "#0022ff",
+        "tab.inactiveBackground": "#000e17",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#cccccc",
+        "editorGroupHeader.tabsBackground": "#001727",
+        "editorGroupHeader.noTabsBackground": "#001727",
+        "statusBar.noFolderBackground": "#001727",
+        
+        "titleBar.inactiveBackground": "#001727",
+        "list.activeSelectionBackground": "#002240",
+        "list.inactiveSelectionBackground": "#002240",
+        "panelTitle.activeBorder": "#78c0ff",
+        "panelTitle.inactiveBorder": "#001727",
+        "peekViewEditor.background": "#002240",
+        
+        "editor.background": "#02071a",
+        "editorCursor.foreground": "#9d9bd3",
+        "editor.selectionBackground": "#8b8ef459",
+        "editor.lineHighlightBackground": "#8082c555",
+        "activityBar.background": "#00102f",
+        "sideBar.background": "#00011a",
+        "titleBar.activeBackground": "#00002e",
+        "statusBar.background": "#0c091e"
+    },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "notebook.formatOnSave.enabled": true,
+    "eslint.format.enable": true,
+    "background.editorBackgrounds": [
+        "e:/background/4273189.jpg"
+    ],
+    "background.backgroundOpacity": [
+        0.9,
+        0.9,
+        0.9,
+        0.9
+    ],
+    "background.backgroundBlur": [
+        "0.8",
+        "0.9",
+        "0",
+        "0"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.format.indentInnerHtml": true,
+    "background.filepath": "e:\\background\\4273189.jpg",
+    "background.windowBackgrounds": [],
+    "workbench.iconTheme": "material-icon-theme",
+    "background.backgroundAlignment": [
+        "Top Center",
+        "Center Center",
+        "Center Center",
+        "Center Center"
+    ],
+    "background.panelBackgrounds": [
+        "e:/background/Avatar_hero.webp"
+    ],
+    // config related to code formatting
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.env.windows": {},
+    "tabnine.experimentalAutoImports": true,
+    "background.sidebarBackgrounds": [
+        "e:/background/4273189.jpg"
+    ],
+    "window.zoomLevel": 1,
+    "tailwindCSS.emmetCompletions": true,
+    "console-ninja.featureSet": "Community",
+    "background.useInvertedOpacity": true,
+    "workbench.editorAssociations": {
+        "*.pyc": "default"
+    }
+}
